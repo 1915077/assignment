@@ -1,0 +1,22 @@
+body{
+	background-color: grey;
+}
+h1{
+	font-size: bolder;
+	padding-left: 550px;
+}
+#mydiv{
+	height: 150px;
+}
+#mydiv1{
+	height: 150px;
+}
+#mydiv2{
+	height: 150px;
+}
+#mydiv3{
+	height: 150px;
+}
+button{
+	margin: 70px 700px 70px;
+}
